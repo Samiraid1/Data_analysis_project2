@@ -1,0 +1,12 @@
+Statistical Analysis
+
+The statistical analysis was performed using Jupyter Notebook environment using Python 3.11.5. All results are reported as mean ± standard deviation (±SD) or as counts (n) and percentages (%).
+
+variables were assessed using two methods:
+
+t-test for Parametric Data (eg : Age) and ANOVA for Non-Parametric Data (eg: Education level) 
+//////////////////////////////plz feel free to modify/////////////////////////////////////////////////////////////////////////////
+the data was divided into different evaluation views (perspectives) such as age, year of experience, source of knowledge, level of education, and gender, to finally come up with a conclusion about the data.
+
+For all statistical tests, a significance level of p < 0.05 was considered statistically significant (*).
+
